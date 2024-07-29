@@ -10,4 +10,4 @@ const txt={
 
 let userName=prompt('Enter the name','');
 
-const msg='txt'
+const de='txt'
