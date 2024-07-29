@@ -11,3 +11,8 @@ const txt={
 let userName=prompt('Enter the name','');
 
 const de='txt'
+
+let react='
+
+let numb=12;
+
