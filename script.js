@@ -12,7 +12,7 @@ let userName=prompt('Enter the name','');
 
 const de='txt'
 
-let react='
+let react=false
 
 let numb=12;
 
